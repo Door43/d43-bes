@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bes:home|Door43 (bes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bes|d43-bes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bes/archive/master.zip|d43-bes.zip]]
+
+**Recent Changes**
+{{changes>ns = bes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bes|Ethnologue data]]
+
